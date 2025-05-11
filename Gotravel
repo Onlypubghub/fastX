@@ -1,4 +1,4 @@
-git clone https://github.com/your-username/travel-website.git
+git clone https://github.com/Gotravel/travel-website.git
 cd travel-website
 index.html
 style.css
